@@ -3,7 +3,7 @@ fun maxim(a: Int, b: Int): Int {
     return b
 }
 
-// 
+// maxim de tres numeros
 fun maxim(a: Int, b: Int, c: Int) = maxim(maxim(a, b), c)
 
 
